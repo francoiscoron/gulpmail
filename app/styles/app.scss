@@ -1,0 +1,12 @@
+$base-font-sans: "Helvetica Neue", Helvetica, sans-serif;
+$base-font-size: 16px;
+
+body {
+    font-family: $base-font-sans;
+    font-size: $base-font-size;
+}
+
+.gm-heading {
+    text-transform: uppercase;
+    color: red;
+}

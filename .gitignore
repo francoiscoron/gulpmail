@@ -1,0 +1,10 @@
+# CACHE
+.DS_STORE
+.sass-cache
+
+# FOLDERS
+node_modules
+build
+
+# FILES
+*.psd

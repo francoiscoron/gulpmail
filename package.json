@@ -1,0 +1,21 @@
+{
+  "name": "gulpmail",
+  "version": "1.0.0",
+  "description": "Gulpmail - building email with gulp and sass ",
+  "main": "gulpfile.js",
+  "keywords": [
+    "gulp",
+    "sass",
+    "mail"
+  ],
+  "author": "francoiscoron",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^1.1.0",
+    "gulp": "^3.8.10",
+    "gulp-htmlmin": "^0.2.0",
+    "gulp-inline-css": "^1.0.1",
+    "gulp-premailer": "^0.3.0",
+    "gulp-sass": "^1.2.4"
+  }
+}
